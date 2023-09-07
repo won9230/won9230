@@ -15,9 +15,6 @@
 [![Solved.ac
 chldnjs8899](http://mazassumnida.wtf/api/v2/generate_badge?boj=chldnjs8899)](https://solved.ac/chldnjs8899)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=won9230)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
