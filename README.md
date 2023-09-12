@@ -14,8 +14,6 @@
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=python&logoColor=white"/> ★★★★☆☆☆☆☆☆
 
 
-  <br/>
-
 
 #### 💪 algorithm
 [![Solved.ac
