@@ -1,8 +1,4 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=3c3c3c&text=Welcome%20won%20Git!&animation=twinkling&fontColor=FFFFFF)
-
-</div>
 
 #### 📕 My Skill 
 <img src="https://img.shields.io/badge/Unity-3c3c3c?style=flat-square&logo=Unity&logoColor=white"/>
