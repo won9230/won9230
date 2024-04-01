@@ -5,13 +5,10 @@
 </div>
 
 #### 📕 My Skill 
-<img src="https://img.shields.io/badge/Unity-3c3c3c?style=flat-square&logo=Unity&logoColor=white"/> ★★★★★★★★☆☆
-
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/> ★★★★★★☆☆☆☆
-
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> ★★★★★★★☆☆☆
-
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=python&logoColor=white"/> ★★★★☆☆☆☆☆☆
+<img src="https://img.shields.io/badge/Unity-3c3c3c?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=python&logoColor=white"/>
 
 
 
